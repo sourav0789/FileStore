@@ -23,13 +23,13 @@ APP_ID = int(os.environ.get("APP_ID", "")) #Your API ID from my.telegram.org
 API_HASH = os.environ.get("API_HASH", "") #Your API Hash from my.telegram.org
 #--------------------------------------------
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002170811388")) #Your db channel Id
-OWNER = os.environ.get("OWNER", "sewxiy") # Owner username without @
-OWNER_ID = int(os.environ.get("OWNER_ID", "7328629001")) # Owner id
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002722969563")) #Your db channel Id
+OWNER = os.environ.get("OWNER", "Ninadavydova1") # Owner username without @
+OWNER_ID = int(os.environ.get("OWNER_ID", "7594442610")) # Owner id
 #--------------------------------------------
 PORT = os.environ.get("PORT", "8001")
 #--------------------------------------------
-DB_URI = os.environ.get("DATABASE_URL", "")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://rommarco964:zNViAmLA87sXmpAo@cluster0.pazh4sd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluooo")
 #--------------------------------------------
 FSUB_LINK_EXPIRY = int(os.getenv("FSUB_LINK_EXPIRY", "10"))  # 0 means no expiry
@@ -42,7 +42,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/e292b12890b8b4b
 #--------------------------------------------
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "linkshortify.com")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "")
-TUT_VID = os.environ.get("TUT_VID","https://t.me/hwdownload/3")
+TUT_VID = os.environ.get("TUT_VID","https://t.me/how_to_download_moviezone/10")
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
 SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://telegra.ph/file/ec17880d61180d3312d6a.jpg")
