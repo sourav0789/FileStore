@@ -45,7 +45,7 @@ SHORTLINK_API = os.environ.get("SHORTLINK_API", "d7669a9e6341ceb53ec5cd7f77c6156
 TUT_VID = os.environ.get("TUT_VID","https://t.me/how_to_download_moviezone/10")
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
-SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://envs.sh/Owa.jpg")
+SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://envs.sh/OPg.jpg")
 #--------------------------------------------
 
 #--------------------------------------------
@@ -91,7 +91,7 @@ USER_REPLY_TEXT = "ʙᴀᴋᴋᴀ ! ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴍʏ ꜱᴇɴᴘ
 #==========================(BUY PREMIUM)====================#
 
 OWNER_TAG = os.environ.get("OWNER_TAG", "Luxepremiumrobot")
-UPI_ID = os.environ.get("ID", "Contact@owner")
+ID = os.environ.get("ID", "Contact@owner")
 QR_PIC = os.environ.get("QR_PIC", "https://telegra.ph/file/939e6b66661e27c8b4d02.jpg")
 SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/Ninadavydova1")
 #--------------------------------------------
