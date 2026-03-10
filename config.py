@@ -40,9 +40,9 @@ START_PIC = os.environ.get("START_PIC", "https://envs.sh/OPg.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/e292b12890b8b4b9dcbd1.jpg")
 
 #--------------------------------------------
-SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "arolinks.com")
-SHORTLINK_API = os.environ.get("SHORTLINK_API", "9dd988a0552a97f798e7a811622c95b5a307dcb5")
-TUT_VID = os.environ.get("TUT_VID","https://t.me/how_to_download_moviezone/9")
+SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "linkshotner.shop")
+SHORTLINK_API = os.environ.get("SHORTLINK_API", "e7beb3c8f756dfa15d0bec495abc65f58c0dfa95")
+TUT_VID = os.environ.get("TUT_VID","https://t.me/how_to_download_moviezone/12")
 SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
 
 SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://envs.sh/OPg.jpg")
