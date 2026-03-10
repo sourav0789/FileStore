@@ -43,7 +43,7 @@ FORCE_PIC = os.environ.get("FORCE_PIC", "https://telegra.ph/file/e292b12890b8b4b
 SHORTLINK_URL = os.environ.get("SHORTLINK_URL", "linkshotner.shop")
 SHORTLINK_API = os.environ.get("SHORTLINK_API", "e7beb3c8f756dfa15d0bec495abc65f58c0dfa95")
 TUT_VID = os.environ.get("TUT_VID","https://t.me/how_to_download_moviezone/12")
-SHORT_MSG = "<b>⌯ Here is Your Download Link, Must Watch Tutorial Before Clicking On Download...</b>"
+SHORT_MSG = "<b><blockquote>‼️ ɢᴇᴛ ᴀʟʟ ꜰɪʟᴇꜱ ɪɴ ᴀ ꜱɪɴɢʟᴇ ʟɪɴᴋ ‼️\n≡ ʏᴏᴜʀ ʟɪɴᴋ ɪꜱ ʀᴇᴀᴅʏ, ᴋɪɴᴅʟʏ ᴄʟɪᴄᴋ ᴏɴ ᴏᴘᴇɴ ʟɪɴᴋ ʙᴜᴛᴛᴏɴ..\n≡ ʙᴜʏ ᴘʀᴇᴍɪᴜᴍ ᴛᴏ ᴜɴʟᴏᴄᴋ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇꜱꜱ</blockquote></b>"
 
 SHORTENER_PIC = os.environ.get("SHORTENER_PIC", "https://envs.sh/OPg.jpg")
 #--------------------------------------------
