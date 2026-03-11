@@ -185,7 +185,7 @@ async def start_command(client: Client, message: Message):
 
             try:
                 reload_url = (
-                    f"https://t.me/{client.username}?start={message.command[1]}"
+                    f"https://t.me/Adult_flix_official"
                     if message.command and len(message.command) > 1
                     else None
                 )
